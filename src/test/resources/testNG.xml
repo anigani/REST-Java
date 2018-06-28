@@ -1,0 +1,7 @@
+<suite name="Suite1" verbose="1" >
+  <test name="REST" >
+    <classes>
+       <class name="com.typicode.jsonplaceholder.RestTest" />
+    </classes>
+  </test>
+</suite>
